@@ -1,11 +1,11 @@
 {
   "name": "Lita",
-  "description": "Lita for Slack", "repository": "https://github.com/yutakakinjyo/lita",
-  "keywords": ["lita", "slack", "ruby"],
+  "description": "Lita for Slack", "repository": "https://github.com/joshuatobin/lita",
+  "keywords": ["lita", "hipchat", "ruby"],
   "env": {
     "TZ": {
       "descirption": "Timezone",
-      "value": "Asia/Tokyo"
+      "value": "US/Eastern"
     },
     "SLACK_TOKEN": {
       "description": "Slack API token",
