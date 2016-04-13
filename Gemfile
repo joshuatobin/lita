@@ -7,6 +7,7 @@ gem "lita-hipchat"
 gem "lita-cron"
 gem "lita-heroku-status"
 gem "lita-timezone"
+gem "lita-utc"
 gem "lita-trello"
 
 # Add handlers to give Lita new functionality.

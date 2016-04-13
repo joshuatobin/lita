@@ -51,6 +51,8 @@ GEM
     lita-trello (0.0.6)
       lita (>= 4.3)
       ruby-trello (~> 1.1)
+    lita-utc (0.1.1)
+      lita (>= 4.3)
     mime-types (2.99.1)
     minitest (5.8.4)
     multi_json (1.11.2)
@@ -96,6 +98,7 @@ DEPENDENCIES
   lita-hipchat
   lita-timezone
   lita-trello
+  lita-utc
 
 BUNDLED WITH
    1.11.2
