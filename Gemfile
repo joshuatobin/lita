@@ -6,6 +6,8 @@ gem "lita"
 gem "lita-hipchat"
 gem "lita-cron"
 gem "lita-heroku-status"
+gem "lita-dig"
+
 
 # Add handlers to give Lita new functionality.
 # For example:
