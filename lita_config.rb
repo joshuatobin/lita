@@ -8,5 +8,5 @@ Lita.configure do |config|
   config.adapters.hipchat.rooms         = ENV['HIPCHAT_ROOMS'].split(",")
   config.adapters.hipchat.muc_domain    = ENV['HIPCHAT_MUC']
   config.http.port                      = ENV['PORT']
-  config.handlers.timezone.default_zone = 'Brasilia'  
+  config.handlers.timezone.default_zone = 'US/Pacific'  
 end
