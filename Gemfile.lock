@@ -46,8 +46,8 @@ GEM
     lita-hipchat (3.0.2)
       lita (>= 4.4.3)
       xmpp4r (>= 0.5.6)
-    lita-onewheel-doc (2.0.1)
-      lita (~> 4.4)
+    lita-key-value (1.0.0)
+      lita (>= 4.0)
     lita-timezone (0.1.0)
       activesupport (~> 4.2)
       lita (~> 4.6)
@@ -101,7 +101,7 @@ DEPENDENCIES
   lita-cron
   lita-heroku-status
   lita-hipchat
-  lita-onewheel-doc
+  lita-key-value
   lita-timezone
   lita-trello
   lita-utc

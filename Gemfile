@@ -10,7 +10,7 @@ gem "lita-timezone"
 gem "lita-utc"
 gem "lita-trello"
 gem "lita-alias"
-gem "lita-onewheel-doc"
+gem "lita-key-value"
 
 # Add handlers to give Lita new functionality.
 # For example:
