@@ -9,6 +9,7 @@ gem "lita-heroku-status"
 gem "lita-timezone"
 gem "lita-utc"
 gem "lita-trello"
+gem "lita-alias"
 
 # Add handlers to give Lita new functionality.
 # For example:
