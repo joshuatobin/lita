@@ -11,6 +11,7 @@ gem "lita-utc"
 gem "lita-trello"
 gem "lita-alias"
 gem "lita-key-value"
+gem "lita-reminder"
 
 # Add handlers to give Lita new functionality.
 # For example:
