@@ -39,9 +39,6 @@ GEM
       thor (>= 0.18.1)
     lita-alias (0.0.1)
       lita (>= 4.3)
-    lita-cron (0.0.3)
-      lita (>= 2.7)
-      rufus-scheduler (= 2.0.24)
     lita-heroku-status (0.1.0)
       lita (>= 4.6)
     lita-hipchat (3.0.2)
@@ -55,10 +52,8 @@ GEM
       lita (>= 4)
       rufus-scheduler (~> 2.0.24)
       whois (~> 3.2.1)
-    lita-timezone (0.1.0)
-      activesupport (~> 4.2)
-      lita (~> 4.6)
-      tzinfo (~> 1.2)
+    lita-time (0.1.0)
+      lita (>= 3.3)
     lita-trello (0.0.6)
       lita (>= 4.3)
       ruby-trello (~> 1.1)
@@ -106,12 +101,11 @@ PLATFORMS
 DEPENDENCIES
   lita
   lita-alias
-  lita-cron
   lita-heroku-status
   lita-hipchat
   lita-key-value
   lita-reminder
-  lita-timezone
+  lita-time
   lita-trello
   lita-utc
 
